@@ -1,6 +1,7 @@
 # 自用域名
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,wqblogs.com
+DOMAIN-SUFFIX,surrit.com
 # 自用ip
 IP-CIDR,192.168.0.0/24,no-resolve
 # 工作
