@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,wqblogs.com
 DOMAIN-SUFFIX,surrit.com
 # 自用ip
 IP-CIDR,192.168.0.0/24,no-resolve
+IP-CIDR,172.17.0.0/16,no-resolve
+IP-CIDR,172.18.0.0/16,no-resolve
 # 工作
 DOMAIN-SUFFIX,tenxcloud.21vianet.com
 DOMAIN-SUFFIX,21vianet.com
