@@ -1,8 +1,12 @@
-# 自用域名
+# 工具
 DOMAIN-SUFFIX,todesk.com
+# ipv6服务
 DOMAIN-SUFFIX,wqblogs.com
+# 视频
 DOMAIN-SUFFIX,surrit.com
-# 自用ip
+# ai
+DOMAIN-SUFFIX,moonshot.cn
+# 内网 ip
 IP-CIDR,172.17.0.0/16,no-resolve
 IP-CIDR,172.18.0.0/16,no-resolve
 # 工作
