@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,wqblogs.com
 # 视频
 DOMAIN-SUFFIX,surrit.com
+# pt
+DOMAIN-SUFFIX,m-team.cc
 # 内网 ip
 IP-CIDR,172.17.0.0/16,no-resolve
 IP-CIDR,172.18.0.0/16,no-resolve
