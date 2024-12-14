@@ -1,5 +1,7 @@
 # 工具
 DOMAIN-SUFFIX,todesk.com
+# 测试服务
+DOMAIN-SUFFIX,app.com
 # ipv6服务
 DOMAIN-SUFFIX,wqblogs.com
 # 视频
