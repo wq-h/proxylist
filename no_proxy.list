@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,m-team.cc
 # 内网 ip
 IP-CIDR,192.168.0.0/24,no-resolve
+IP-CIDR,172.17.0.0/16,no-resolve
+IP-CIDR,172.18.0.0/16,no-resolve
 IP-CIDR,127.0.0.1/32,no-resolve
 # 购物
 DOMAIN-SUFFIX,1688.com
