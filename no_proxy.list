@@ -1,7 +1,5 @@
 # 工具
 DOMAIN-SUFFIX,todesk.com
-# 测试服务
-DOMAIN-SUFFIX,app.com
 # ipv6服务
 DOMAIN-SUFFIX,wqblogs.com
 # 视频
@@ -9,7 +7,11 @@ DOMAIN-SUFFIX,surrit.com
 # pt
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,hdfans.org
 # 内网 ip
 IP-CIDR,192.168.0.0/24,no-resolve
 IP-CIDR,172.17.0.0/16,no-resolve
@@ -24,6 +26,3 @@ DOMAIN-SUFFIX,tenxcloud.com
 DOMAIN-SUFFIX,indc.vnet.com
 DOMAIN-SUFFIX,ccccltd.cn
 DOMAIN-SUFFIX,1ms.run
-
-# ai
-DOMAIN-SUFFIX,115.190.167.236
