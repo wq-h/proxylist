@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,picix.us
 DOMAIN-SUFFIX,client-rapi-missav.recombee.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,telegram.org
@@ -6,4 +7,6 @@ DOMAIN-KEYWORD,mgstage,日本节点
 DOMAIN-KEYWORD,dmm,日本节点
 DOMAIN-KEYWORD,amazon,日本节点
 DOMAIN-KEYWORD,picix.us,日本节点
+DOMAIN-KEYWORD,missav.ws,日本节点
+
 
