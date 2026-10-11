@@ -1,10 +1,8 @@
-DOMAIN-SUFFIX,missav.ws,日本自动
-DOMAIN-SUFFIX,picix.us,日本自动
-DOMAIN-SUFFIX,client-rapi-missav.recombee.com,日本自动
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-KEYWORD,mgstage,日本自动
-DOMAIN-KEYWORD,dmm,日本自动
-DOMAIN-KEYWORD,amazon,日本自动
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,picix.us
+DOMAIN-SUFFIX,client-rapi-missav.recombee.com
+DOMAIN-KEYWORD,mgstage
+DOMAIN-KEYWORD,dmm
+DOMAIN-KEYWORD,amazon
 
 
