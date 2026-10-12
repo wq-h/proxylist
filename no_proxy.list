@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,hdfans.org
 # 内网 ip
@@ -19,7 +18,7 @@ IP-CIDR,172.18.0.0/16,no-resolve
 IP-CIDR,127.0.0.1/32,no-resolve
 # 购物
 DOMAIN-SUFFIX,1688.com
-# 工作
+# 工作（公司/内网直连）
 DOMAIN-SUFFIX,tenxcloud.21vianet.com
 DOMAIN-SUFFIX,21vianet.com
 DOMAIN-SUFFIX,tenxcloud.com
@@ -27,3 +26,25 @@ DOMAIN-SUFFIX,indc.vnet.com
 DOMAIN-SUFFIX,ccccltd.cn
 DOMAIN-SUFFIX,1ms.run
 DOMAIN-SUFFIX,gh-proxy.com
+# 国内服务直连
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,miwifi.com

@@ -1,8 +1,54 @@
+# 视频/影视（海外平台，nikki 官方集未覆盖）
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,picix.us
 DOMAIN-SUFFIX,client-rapi-missav.recombee.com
 DOMAIN-KEYWORD,mgstage
 DOMAIN-KEYWORD,dmm
 DOMAIN-KEYWORD,amazon
-
-
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,crunchyroll.jp
+DOMAIN-SUFFIX,prnewswire.com
+DOMAIN-SUFFIX,tubitv.com
+# 社交媒体/通讯（国内受限）
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditvideo.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mastodon.social
+# AI 服务
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,perplexity.ai
+# 云盘/同步
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,dropboxapi.com
+# 开发/协作工具
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-messaging.com
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,linear.app
