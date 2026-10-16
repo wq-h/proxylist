@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,hhanclub.net
 DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,hdfans.org
 # 内网 ip
 IP-CIDR,192.168.0.0/24,no-resolve
